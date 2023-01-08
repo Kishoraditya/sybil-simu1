@@ -14,3 +14,6 @@ What features are already in progress?
 
 Request features?
 
+todo: 
+update sybil coefficient only if creation cost is unique 
+update remaining values
